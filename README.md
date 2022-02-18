@@ -59,7 +59,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![output1](2.png)
+![output1](https://github.com/Praneet002/QRdecomposition/blob/main/2.png)
 ```
 
 ## Result
